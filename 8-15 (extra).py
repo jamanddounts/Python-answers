@@ -10,5 +10,6 @@ lista.insert(0,10)
 lista.remove(0)
 print(lista)
 
-#theres probs a better way of doing this. also i guess you can swap line 9 and 10 around? 
+#theres probs a better way of doing this
+#i guess you can swap line 9 and 10 around? 
 # .replace() wasnt recognised :(
