@@ -12,4 +12,4 @@ elif score >= 60:
 else:
     print("Fail")
     
-#technically you could do "=80 and <90" but because python tries every if statement in order it's not neccssary
+#technically you could do ">=80 and <90" etc but because python tries every elif statement in order it's not neccssary
