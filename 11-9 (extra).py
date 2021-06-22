@@ -10,4 +10,4 @@ a = int(input("Input integer:"))
 b = int(input("Input integer:"))
 print("Greatest common divisor", math.gcd(a,b))
 
-#who the fuck calls it gcd? hcf homies where you at
+#absolutely unrelated to python but hcf > gcd
