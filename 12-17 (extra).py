@@ -9,6 +9,6 @@ for k, v in scores.items():
         print(k)
         
 #these bonus assignments are way too hard what the fuck?
-#there are probably alternative solutions but just finding this took way too long, i dont want to think about it
-#if anyone found a different solution plz hmu
-#the two pages about keys() and values() before this exercise were absolutely useless why did they add them
+#there are probably alternative solutions but just finding this took way too long
+#if anyone did find a different solution plz hmu
+#also the two pages about keys() and values() before this exercise were absolutely useless why did they add them
