@@ -23,6 +23,6 @@ if bmi >=40:
   bmi_category = "Obese Class III"
 #etc for every category and then have only one print statement at the bottom (unindented)
 print("Your BMI Category is", bmi_category)
-#have no tested but i trust it works...
+#have not tested but it should work
 
 #MAKE SURE TO CAPITALISE Category....
