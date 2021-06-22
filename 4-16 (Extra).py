@@ -1,5 +1,3 @@
 a = float(input("Input decimals:"))
 b = float(input("Input decimals:"))
 print(min(a,b))
-
-#you can also do each line separately
