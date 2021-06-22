@@ -6,7 +6,6 @@ for x in range(1,11):
         ()
 
 #the sexy gyals are doing
-
 for x in range(1,11):
     if x%2==0:
         print(x)
